@@ -1,16 +1,78 @@
-* Network Sessions
+# Initial Brainstorming Org MAY 18th 
 
-* Monday will be schedules and locations
-* Coordinating team email???
 * If session gets full -- use the signs!!!
 * Consider how to make workshop ACCESSIBLE
 
-* 20 minute intro
+* Workshop Breakdown
+** 20 minute intro
+*** Deliver Rules 
+*** Assign Roles (know the distibution numbers)
+**** Type/Skill
+**** Neighbourhood 
+**** Network Chips
+*** Move Outside
+** 50 minute game
+*** multiple 25 minute scenarios?
+**** urban cybersprawl 2021
+**** techno-agrarian utopia
+** 15 minute outro
+*** AMC 5min feedback box
+* Game Mechanics
+** Roles
+People will embody roles (complete with abilities and tasks)
+*** Human
+**** Organizer
+***** responsible for obtaining permission to build
+***** responsible for bringing skills to site (inc emergencies)
+**** Technologist
+***** builds network components (mounting/power asessment)
+***** tracks and verifies range for broadcast
+**** ?? 
+*** Network
+**** Router (+ subtypes)
+***** provides/collects chips to/from network traffic/people
+**** Network Traffic
+***** getting chips and delivering them
+***** anyone can be network traffic if not fulfilling another role
+**** Buildings?? Mounting points?? 
+***** dual roles for those who don't want to run around
+****** buildings can validate requirements
+****** private property / power lines
 
-* 50 minute game
-* 15 minute outro
-** AMC 5min feedback box
-** 
+** Actions
+Will have to be completed by the group to fulfill some condition
+*** Putting up a node
+**** rationale: fundamental to moving chips around
+**** requires: 
+***** consensus/majority from area
+****** organizers acquire chip from residents--- brings 50%+ to site 
+***** viable site
+****** based on type of building/router/power
+***** sucessful installation
+*** having an active connection
+**** somehow denote range with string... how do we deal with multidirectional broadcast?
+
+** Events 
+Seemingly random occurences effecting everyone
+*** environmental hazards
+**** trees falling, downed lines
+***** rewards for completion
+*** static obstacles
+**** construction
+**** trees/tall buildings in the way
+*** network topography (node spacing)
+** What is the victory condition?
+*** some number of countable exchanges on a network
+
+* Game TODO
+* TODO formalize rules/constraints
+* TODO write role cards
+** TODO design role cards 
+*** including chips 
+* TODO write event cards
+** TODO consider signage for vacate roles
+** TODO create props list
+* TODO draft initial pitch
+** TODO draft takeaway debrief
 
 
-* TODO gbby place to stay
