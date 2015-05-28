@@ -5,55 +5,62 @@
 
 * Workshop Breakdown
 ** 20 minute intro
-*** Deliver Rules 
-*** Assign Roles (know the distibution numbers)
-**** Type/Skill
-**** Neighbourhood 
-**** Network Chips
-*** Move Outside
+  - Deliver Rules 
+  - Assign Roles (know the distibution numbers)
+  - Type/Skill
+  - Neighbourhood
+  - Network Chips
+  - Move Outside
 ** 50 minute game
-*** multiple 25 minute scenarios?
-**** urban cybersprawl 2021
-**** techno-agrarian utopia
+  - Multiple 25 minute scenarios?
+    - urban cyberspral 2021
+    - techno-agrarian utopia
 ** 15 minute outro
-*** AMC 5min feedback box
+  - AMC 4min feedback box
+
 * Game Mechanics
+
 ** Roles
-People will embody roles (complete with abilities and tasks)
+  People will embody roles (complete with abilities and tasks)
 *** Human
 **** Organizer
-***** responsible for obtaining permission to build
-***** responsible for bringing skills to site (inc emergencies)
+      - responsible for obtaining permission to build
+      - responsible for bringing skills to site (inc emergencies)
 **** Technologist
-***** builds network components (mounting/power asessment)
-***** tracks and verifies range for broadcast
-**** ?? 
+      - builds network components (mounting/power asessment)
+      - tracks and verifies range for broadcast
+      - ??
 *** Network
 **** Router (+ subtypes)
-***** provides/collects chips to/from network traffic/people
+      - provides/collects chips to/from network traffic/people
 **** Network Traffic
-***** getting chips and delivering them
-***** anyone can be network traffic if not fulfilling another role
+      - getting chips and delivering them
+      - anyone can be network traffic if not fulfilling another role
 **** Buildings?? Mounting points?? 
-***** dual roles for those who don't want to run around
-****** buildings can validate requirements
-****** private property / power lines
+      - dual roles for those who don't want to run around
+      - buildings can validate requirements
+      - private property / power lines
 
-** Actions
-Will have to be completed by the group to fulfill some condition
-*** Putting up a node
-**** rationale: fundamental to moving chips around
-**** requires: 
-***** consensus/majority from area
-****** organizers acquire chip from residents--- brings 50%+ to site 
-***** viable site
-****** based on type of building/router/power
-***** sucessful installation
-*** having an active connection
-**** somehow denote range with string... how do we deal with multidirectional broadcast?
+** Tasks (Actions)
+  Will have to be completed by the group to fulfill some condition
+*** Holding Community Meeting
+  Rationale: 
+  Requires:
+*** Installing a Node
+  Rationale: fundamental to moving chips around
+  Requires: 
+  - consensus/majority from area
+  - organizers acquire chip from residents--- brings 50%+ to site 
+  - viable site based on type of building/router/power
+  - sucessful installation
+*** Have Active Connection
+  Rationale: 
+  Requires:
+  - somehow denote range with string... how do we deal with multidirectional broadcast?
+
 
 ** Events 
-Seemingly random occurences effecting everyone
+  Seemingly random occurences effecting everyone
 *** environmental hazards
 **** trees falling, downed lines
 ***** rewards for completion
@@ -64,15 +71,50 @@ Seemingly random occurences effecting everyone
 ** What is the victory condition?
 *** some number of countable exchanges on a network
 
-* Game TODO
-* TODO formalize rules/constraints
-* TODO write role cards
-** TODO design role cards 
-*** including chips 
-* TODO write event cards
-** TODO consider signage for vacate roles
-** TODO create props list
-* TODO draft initial pitch
-** TODO draft takeaway debrief
+* TODO Game [0/7]
+  - WORKING [ ] formalize rules/constraints #dc
+  - [ ] write role cards
+  - [ ] design role cards [0/1]
+    - [ ] including chips
+  - [ ] write event cards
+  - [ ] consider signage for vacant roles
+  - [ ] create props list
+  - WORKING [ ] Preamble and Takeaway [0/2] #dc
+    - WORKING [ ] initial introduction 
+    - WORKING [ ] takeaway debrief
+
+
+** Rules and Constraints
+*** Number of participants: 8-30 (???) -> This needs to be informed by prototype run through
+*** Roles:
+*** Set up for play: 
+  - Organizer allocate role cards depending on group size (be aware of what was handed out) 
+  - If any roles are vacant than ensure those props are present
+*** Goal: 
+  The game is structured into XX scenarios, each presenting challenges that have to be overcome in order to establish a comminuty network. The goal in eah scenario and more generally is to sucessfully 'build' a wireless network. Since we aren't working with hardware we will use the successful movement of enough network traffic around the network to signify a 'working' network.
+
+  Each person should have at least one role card (though some may have more than one). Each role has either elements or skills required for a functioning a network. These roles can be either human and non-human. Alongside skills, a bunch of roles are required to complete the basic tasks of creating a network. A description can be found on your role card.
+
+  As facilitators we will be around to both aid and hinder you as you go about your tasks.
+
+
+
+** Initial Introduction
+  Today we are going to co-design a way for a couple of areas to communicate using community wireless technology. Everyone participating will create the solution by moving through the game we've prepared and resolving difficulties encountered. 
+
+  With a session that is only 90 minutes long we are going to spend our time in the following way:
+  - the first 20 minutes will be explaining the rules, handing out roles and getting outselves set up to play
+  - we will spend roughly the next hour actually playing the game
+  - the final 15 minutes will be an opportunity for everyone to report back about their experiences and take aways.
+
+  We will mention this again at the end, but right now we are still in the early stages of exploring how play and this workshop can help design and create community networks.
+
+** Takeaway Debrief
+  <some way to get participants attention, maybe described or determined at the beginning of the play session>
+
+  Given that we are out of time I
+
+
+
 
 
