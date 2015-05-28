@@ -1,8 +1,8 @@
 # Considerations for AMC Conference June 16-21
 
 * Networking Sessions June 16th Evening
-* TODO [0/4]
-  - [ ] gbby place to stay
+* TODO [1/4]
+  - [X] gbby place to stay
   - [ ] email about coordinating team
   - [ ] play commotion game early in June 
   - [ ] prototype 100in1day a week before #Dpro
