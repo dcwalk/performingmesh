@@ -1,45 +1,41 @@
 This document outlines the text/content that will be present on the role card .svgs
-* FORMAT
-** Description
-** Task List
-** Token/Counter 1 
-** Token/Counter 2
-* Community Technologist
-** Role: 
+* Actors (Player Characters)
+** Community Technologist
+*** Role: 
 Community technologists (CTs) are sources of technical expertise for their
 communities.  They help their neighbourhoods to deploy networks, and
 teach other people the skills they need to do the same.
-** Tasks:
+*** Tasks:
 CTs use their string to measure the distance between *routers* and
 _power sources_, which allows *network traffic* to pass over the
 connection
-** Tokens needed:
-*** Network Traffic Tokens
-* Organizer
-** Role:
+*** Tokens needed:
+**** Network Traffic Tokens
+** Organizer
+*** Role:
 Organizers help to get communities together and pick sites for
 routes. They use their abilities of planning and their social networks
 to coordinate many people to act.
-** Tasks:
+*** Tasks:
 Organizers need to rally communities together and get sites approve by
 collecting _something???_ from residents and taking it to the site.
-** Tokens Needed:
-*** Resident approval markers
-*** Bringing resources to sites for Events
-* Router
-** Role:
+*** Tokens Needed:
+**** Resident approval markers
+**** Bringing resources to sites for Events
+** Router
+*** Role:
 Routers allow people to send messages to one another, acting as
 anchors/paths for *network traffic* 
-** Tasks:
+*** Tasks:
 Routers amass and direct network traffic to other routers.
-** Tokens Needed:
-*** Network Traffic
-* Site
-** Role:
+*** Tokens Needed:
+**** Network Traffic
+** Site
+*** Role:
 Sites are stationary, but not static, historical records. They accordingly store all of the validation work for establishing *routers*.
 They are the nexus of all network traffic and are where routers are set up. 
-* Network Traffic
-** Since everyone uses a network, anyone can be network traffic
+** Data Packets (Aggregate = Network Traffic)
+*** Since everyone uses a network, anyone can be network traffic
 * Open Qs:
 ** Is there a need for a _main site_?
 ** How does network traffic work?
