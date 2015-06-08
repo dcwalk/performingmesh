@@ -1,10 +1,10 @@
 This document outlines the text/content that will be present on the role card .svgs
 * Actors (Player Characters)
-** Community Technologist
+** Technologist
 *** Role: 
-Community technologists (CTs) are sources of technical expertise for their
-communities.  They help their neighbourhoods to deploy networks, and
-teach other people the skills they need to do the same.
+ Technologists are sources of technical expertise for their communities. They help their neighbourhoods to deploy networks, and teach other people the skills they need to do the same.
+*** Skill:
+ Building new network nodes
 *** Tasks:
 CTs use their string to measure the distance between *routers* and
 _power sources_, which allows *network traffic* to pass over the
