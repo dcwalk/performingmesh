@@ -43,3 +43,24 @@ They are the nexus of all network traffic and are where routers are set up.
 *** grid for punching/scrawl
 *** circle for punching
 *** tag for ripping
+
+** From initial_planning document, Roles:
+  People will embody roles (complete with abilities and tasks)
+*** Human
+**** Organizer
+      - responsible for obtaining permission to build
+      - responsible for bringing skills to site (inc emergencies)
+**** Technologist
+      - builds network components (mounting/power asessment)
+      - tracks and verifies range for broadcast
+      - ??
+*** Network
+**** Router (+ subtypes)
+      - provides/collects chips to/from network traffic/people
+**** Network Traffic
+      - getting chips and delivering them
+      - anyone can be network traffic if not fulfilling another role
+**** Buildings?? Mounting points?? 
+      - dual roles for those who don't want to run around
+      - buildings can validate requirements
+      - private property / power lines

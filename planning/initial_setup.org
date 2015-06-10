@@ -23,20 +23,21 @@
 ** 20 minute intro
   - Deliver Rules 
   - Assign Roles (know the distibution numbers)
-  - Type/Skill
-  - Neighbourhood
-  - Network Chips
+    - Type/Skill
+    - Neighbourhood
+    - Network Chips
   - Move Outside
-** 50 minute game
-  - Multiple 25 minute scenarios?
-    - urban cyberspral 2021
-    - techno-agrarian utopia
+** 50 minute game-play
+  - 2-3 scenarios of increasing difficulty with the same underlying framework
+    - basic gameplay mechanics (data packets & network expansion)
+    - introducing challenges
+    - introducing time constraints
 ** 15 minute outro
   - AMC 4min feedback box
 * Game Mechanics
 ** Players
-  Minimum: 8 players
-  - Scales 
+  Minimum: 10 players
+  - Scales to 20, 30
 ** Initial Introduction
   Today we are going to co-design a way for a couple of areas to communicate using community wireless technology. Everyone participating will create the solution by moving through the game we've prepared and resolving difficulties encountered. 
 
@@ -47,34 +48,17 @@
 
   We will mention this again at the end, but right now we are still in the early stages of exploring how play and this workshop can help design and create community networks.
 ** Objective
- The objective for the game is to collectively send enough messages around a mesh network. To meet this object you will have to organize yourselves to build new nodes and move traffic around.
+ The objective for the game is to collectively send enough messages around your local mesh network. To achieve this you will have to move around enough data packets and build new nodes to expand your network.
 ** Goal: 
- The game is structured into XX scenarios, each presenting challenges that have to be overcome in order to build a comminuty network. Since we aren't working with hardware we will use the successful movement of enough people to signify a 'working' network.
+ The game is structured into stages of increasing difficulty, the first stage will introduce the basic game with each following stage including a new element you'll have to overcome. Since we aren't working with hardware we will use the successful movement of enough people to signify a 'working' network.
 
- Each person should have at least one role card (though some may have more than one). Each role has either elements or skills required for the functioning a network. These roles can be either human and non-human. Alongside skills, a bunch of roles are required to complete the basic tasks of creating a network. 
+ Each person should have one role card. Therea are three roles: Organizer, Technologist and Human. Each has elements or skills required for the expansion of a network. 
+
+ <FILL IN WITH ROLE DESCRIPTION ONCE FINALIZED>
 
  As facilitators we will be around to both aid and hinder you as you go about your tasks
 
-** Roles
-  People will embody roles (complete with abilities and tasks)
-*** Human
-**** Organizer
-      - responsible for obtaining permission to build
-      - responsible for bringing skills to site (inc emergencies)
-**** Technologist
-      - builds network components (mounting/power asessment)
-      - tracks and verifies range for broadcast
-      - ??
-*** Network
-**** Router (+ subtypes)
-      - provides/collects chips to/from network traffic/people
-**** Network Traffic
-      - getting chips and delivering them
-      - anyone can be network traffic if not fulfilling another role
-**** Buildings?? Mounting points?? 
-      - dual roles for those who don't want to run around
-      - buildings can validate requirements
-      - private property / power lines
+
 ** Tasks (Actions)
   Will have to be completed by the group to fulfill some condition
 *** Holding Community Meeting
