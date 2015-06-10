@@ -2,65 +2,49 @@ This document outlines the text/content that will be present on the role card .s
 * Actors (Player Characters)
 ** Technologist
 *** Role: 
- Technologists are sources of technical expertise for their communities. They help their neighbourhoods to deploy networks, and teach other people the skills they need to do the same.
-*** Skill:
- Building new network nodes
+ Technologists are sources of technical expertise for their
+ communities. They help their neighbourhoods to deploy networks, and
+ teach other people the skills they need to do the same.* Building new
+ network nodes. Technolgists act as *data packets* until they are
+ called by *organizers* to aid in expanding the network.
+** Data Packets  
+*** Role:
+Data packets are all of the message sent around a wireless
+network. They might be conversations, videos, or requests to
+websites. A healthy network allows many messages to pass quickly and
+without intereference.
 *** Tasks:
-CTs use their string to measure the distance between *routers* and
-_power sources_, which allows *network traffic* to pass over the
-connection
-*** Tokens needed:
-**** Network Traffic Tokens
+Players send messages by making shapes in the network. 
+Begin at a node, and attempt to trace the shape using only nodes beside you.
+Remember, you can only use nodes that have been activated!
+** Residents
+*** Role
+Everyone is important to building a network. Not only do residents
+help technologists and organizers with their knowledge of the area,
+but their approval and insight are necessary in expanding the
+network. Residents are also the people who the network is designed to
+serve, and use it the most.
+*** Tasks: 
+Residents provide advice and approval to organizers and technologists
+looking to expand a network. A certain number of them must be present
+to expand a network.
 ** Organizer
 *** Role:
 Organizers help to get communities together and pick sites for
 routes. They use their abilities of planning and their social networks
 to coordinate many people to act.
 *** Tasks:
-Organizers need to rally communities together and get sites approve by
-collecting _something???_ from residents and taking it to the site.
-*** Tokens Needed:
-**** Resident approval markers
-**** Bringing resources to sites for Events
-** Router
-*** Role:
-Routers allow people to send messages to one another, acting as
-anchors/paths for *network traffic* 
-*** Tasks:
-Routers amass and direct network traffic to other routers.
-*** Tokens Needed:
-**** Network Traffic
-** Site
-*** Role:
-Sites are stationary, but not static, historical records. They accordingly store all of the validation work for establishing *routers*.
-They are the nexus of all network traffic and are where routers are set up. 
-** Data Packets (Aggregate = Network Traffic)
-*** Since everyone uses a network, anyone can be network traffic
-* Open Qs:
-** Is there a need for a _main site_?
-** How does network traffic work?
-** What types of tokens do we use for each interaction?
-*** grid for punching/scrawl
-*** circle for punching
-*** tag for ripping
+Organizers need to rally communities together to expand their wireless networks.
+Organizers help to expand the network by collecting the people
+necessary to build each new node. These include residents of certain
+colours, as well as Technologists.
 
-** From initial_planning document, Roles:
-  People will embody roles (complete with abilities and tasks)
-*** Human
+* TODO props list update
+** node expansion conditions for each node possible
+* Open Qs:
+** Technologist
+      - builds network components (mounting/power asessment)
+      - tracks and verifies range for broadcast
 **** Organizer
       - responsible for obtaining permission to build
       - responsible for bringing skills to site (inc emergencies)
-**** Technologist
-      - builds network components (mounting/power asessment)
-      - tracks and verifies range for broadcast
-      - ??
-*** Network
-**** Router (+ subtypes)
-      - provides/collects chips to/from network traffic/people
-**** Network Traffic
-      - getting chips and delivering them
-      - anyone can be network traffic if not fulfilling another role
-**** Buildings?? Mounting points?? 
-      - dual roles for those who don't want to run around
-      - buildings can validate requirements
-      - private property / power lines
