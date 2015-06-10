@@ -7,16 +7,16 @@
   - WORKING [ ] formalize rules/constraints #dc
   - [ ] write role cards
   - [ ] design role cards [0/1]
-    - [ ] including chips
+    - [ ]  including chips
   - [ ] write event cards
-  - [ ] consider signage for vacant roles
-  - [ ] create props list
+  - [X] create props list
   - WORKING [ ] Preamble and Takeaway [0/2] #dc
     - WORKING [ ] initial introduction 
     - WORKING [ ] takeaway debrief
 * TODO Running Questions 
-  - [ ] making schematics for organizers, one per scenario
-    - [ ] Does the map require building types specified?
+  - Making schematics for organizers, base with alterations for scenario?
+  - Will there be rounds called out?
+  - How does the need for more nodes put contrainst on player movement (jams, not crossing paths, starting from where stopped?)
 
 
 * Workshop Breakdown
@@ -38,6 +38,7 @@
 ** Players
   Minimum: 10 players
   - Scales to 20, 30
+
 ** Initial Introduction
   Today we are going to co-design a way for a couple of areas to communicate using community wireless technology. Everyone participating will create the solution by moving through the game we've prepared and resolving difficulties encountered. 
 
@@ -46,35 +47,52 @@
   - we will spend roughly the next hour actually playing the game
   - the final 15 minutes will be an opportunity for everyone to report back about their experiences and take aways.
 
-  We will mention this again at the end, but right now we are still in the early stages of exploring how play and this workshop can help design and create community networks.
+  We will mention this again at the end, but right now we are still in the early stages of exploring how play and this workshop can help with understanding and designing community networks.
+
 ** Objective
  The objective for the game is to collectively send enough messages around your local mesh network. To achieve this you will have to move around enough data packets and build new nodes to expand your network.
-** Goal: 
+
+** Goal
+ The goal of the game is for the community to to deliver enough data packets in the allocated time.
+
  The game is structured into stages of increasing difficulty, the first stage will introduce the basic game with each following stage including a new element you'll have to overcome. Since we aren't working with hardware we will use the successful movement of enough people to signify a 'working' network.
 
  Each person should have one role card. Therea are three roles: Organizer, Technologist and Human. Each has elements or skills required for the expansion of a network. 
 
  <FILL IN WITH ROLE DESCRIPTION ONCE FINALIZED>
 
- As facilitators we will be around to both aid and hinder you as you go about your tasks
+ As facilitators we will be around to both aid and hinder you as you go about your tasks.
 
+** Setup
+*** Facilitator
+<FILL IN WITH FACILITATOR>
+
+**** Required Materials
+ - Role Cards
+ - Event Cards
+
+ - Additional Signage?
+ - Stakes (pylons?)
+ - Beanbags
+
+**** Calculate Data Packets Goal
+ Amount should scale based on the number of participants, the goal is roughly XX per person (including organizer roles)
+
+*** Participants
+<FILL IN WITH PARTICIPANTS>
 
 ** Tasks (Actions)
-  Will have to be completed by the group to fulfill some condition
-*** Holding Community Meeting
+*** Send Data Packets
   Rationale: 
   Requires:
-*** Installing a Node
-  Rationale: fundamental to moving chips around
+*** Build a Node
+  Rationale: Fundamental to moving chips around
   Requires: 
   - consensus/majority from area
   - organizers acquire chip from residents--- brings 50%+ to site 
   - viable site based on type of building/router/power
   - sucessful installation
-*** Have Active Connection
-  Rationale: 
-  Requires:
-  - somehow denote range with string... how do we deal with multidirectional broadcast?
+
 ** Events 
   Seemingly random occurences effecting everyone
 *** environmental hazards
