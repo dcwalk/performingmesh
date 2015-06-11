@@ -1,0 +1,62 @@
+** Event Cards
+  Occurances affecting all players that are initiated/instigated by the facilitators, come in four flavours:
+*** Hardware Failure
+**** Tree Down
+***** Description
+***** Effect
+***** Resolution
+
+*** Networking Issue
+**** Interference
+***** Description
+***** Effect
+***** Resolution
+
+**** Power Outage
+***** Description
+***** Effect
+***** Resolution
+
+*** Obstruction
+**** Construction
+***** Description
+***** Effect
+***** Resolution
+
+**** School Yard Ball Mishap
+***** Description
+***** Effect
+***** Resolution
+
+**** Re-tarring of roof
+***** Description
+***** Effect
+***** Resolution
+
+**** Maintenance Mishap
+***** Description
+***** Effect
+***** Resolution
+
+*** Social Dimension
+**** Site Sponser Leave
+***** Description
+***** Effect
+***** Resolution
+
+**** Community Border Node
+***** Description
+***** Effect
+***** Resolution
+
+**** Language Barrier
+***** Description
+***** Effect
+***** Resolution
+
+**** Imposter Syndrome
+***** Description
+***** Effect
+***** Resolution
+
+

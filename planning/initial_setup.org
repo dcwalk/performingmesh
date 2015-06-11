@@ -1,4 +1,4 @@
-# Initial Brainstorming Org MAY 18th 
+# Initial Brainstorming and Rule Development
 
 * Notes 
 ** If session gets full -- use the signs!!!
@@ -67,16 +67,20 @@
 *** Facilitator
 <FILL IN WITH FACILITATOR>
 
+ - Facilitator allocates role cards depending on group size:
+ - If any roles are vacant than ensure those props are present
+
+
 **** Required Materials
  - Role Cards
  - Event Cards
 
  - Additional Signage?
- - Stakes (pylons?)
- - Beanbags
+ - Stakes (tentatively Survey Stakes)
+ - Sash ()
 
 **** Calculate Data Packets Goal
- Amount should scale based on the number of participants, the goal is roughly XX per person (including organizer roles)
+ Amount should scale based on the number of participants, the goal is roughly XX per person (including organizer roles), however the tally is pooled 
 
 *** Participants
 <FILL IN WITH PARTICIPANTS>
@@ -93,29 +97,7 @@
   - viable site based on type of building/router/power
   - sucessful installation
 
-** Events 
-  Seemingly random occurences effecting everyone
-*** environmental hazards
-**** trees falling, downed lines
-***** rewards for completion
-*** static obstacles
-**** construction
-**** trees/tall buildings in the way
-*** network topography (node spacing)
-** What is the victory condition?
-*** some number of countable exchanges on a network
-** Number of participants: 8-30 (???) -> This needs to be informed by prototype run through
-** Set up for play: 
- - Organizer allocate role cards depending on group size (be aware of what was handed out) 
- - If any roles are vacant than ensure those props are present
-
-
 ** Takeaway Debrief
   <some way to get participants attention, maybe described or determined at the beginning of the play session>
 
   Given that we are out of time I
-
-
-
-
-
