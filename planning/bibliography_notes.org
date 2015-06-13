@@ -1,0 +1,32 @@
+* Rules of Play (salen2004rules)
+** Core Concepts
+*** Interaction and Choice
+**** Structured vs Open
+**** micro/macro level
+*** Choice Structure {64}
+**** 1 prechoice state (internal/mechanical)>
+**** 2 choice presentation (external/phenomenological) >
+***** Players need to see some way to proceed 
+**** 3 choice selection interaction (internally processed as a conditional) > 
+**** 4 choice result and externalities (internal, consequent) >
+***** decisions need to feel important
+**** 5 choice result communication to player (external - loop to 1)
+***** changes in game state must be explicit
+*** For meshlarp, we have
+****  multiple interactions occuring simultaneously
+***** mutually reinforcing a shared game-state
+**** multiple agents working towards a goal
+*** Role playing games (81) 
+**** No winner, final objective 
+**** rules keep it formal, but with less structured play
+*** schemae
+**** variables
+**** multi-levelled
+**** can represent objects and interaction
+**** formalized and specific knowledge 
+**** plays delivers a type of experience (through participation, observation, affect)
+** RULES
+*** How are our rules embodied in the roles and events themselves? 
+*** Players act to validate one another achievements, and serve their own ends
+*** How will tokens explain their own role in the game?
+**** Elegant rules allow users to focus on play rather than rules 
