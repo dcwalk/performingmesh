@@ -1,50 +1,51 @@
 This document outlines the text/content that will be present on the role card .svgs
-* Actors (Player Characters)
+* Actors 
+** Organizer
+*** Role
+  Organizers help communities get together and pick sites for new nodes to expand wireless networks. They use their planning abilities and social networks to help coordinate people's desire to act.
+*** Tasks
+  - Build A New Node
+    The following conditions have to be met to build a new node:
+    - Site is not already a Broadcasting Node
+    - Obtained permission/consensus is onsite
+      - At least (2/3/3) Residents of the Node Colour, barring Events
+    - Equipment and expertise is onsite
+        - (1/2/2) Technologists
+
+  - Resolve Events
+    From time to time unforseen events will occur that require quick thinking and action on the part of the Organizer to resolve. Much the same as building a new node, the Organizer will have to bring other players to the site for that resolution
+
+
 ** Technologist
-*** Role: 
- Technologists are sources of technical expertise for their
- communities. They help their neighbourhoods to deploy networks, and
- teach other people the skills they need to do the same.* Building new
- network nodes. Technolgists act as *data packets* until they are
- called by *organizers* to aid in expanding the network.
-** Data Packets  
-*** Role:
-Data packets are all of the message sent around a wireless
-network. They might be conversations, videos, or requests to
-websites. A healthy network allows many messages to pass quickly and
-without intereference.
-*** Tasks:
-Players send messages by making shapes in the network. 
-Begin at a node, and attempt to trace the shape using only nodes beside you.
-Remember, you can only use nodes that have been activated!
+*** Role 
+  Technologists act as sources of technical expertise for communities, helping neighbourhoods create networks and build nodes, while at the same time aquire the skills they need to do the same.
+*** Tasks
+  - Deliver Data Packets
+
+  - Assist Building A New Node & Resolving Events
+    Working with the Organizer and Residents, Technologists will bring their talents to bear on problems: 
+    - Equipment Troubleshooting
+    - Technical Experience
+    - Network Design and Layout
+    they must explicitly consent to being involved in both building a node and resolving the event.
+
 ** Residents
 *** Role
-Everyone is important to building a network. Not only do residents
-help technologists and organizers with their knowledge of the area,
-but their approval and insight are necessary in expanding the
-network. Residents are also the people who the network is designed to
-serve, and use it the most.
-*** Tasks: 
-Residents provide advice and approval to organizers and technologists
-looking to expand a network. A certain number of them must be present
-to expand a network.
-** Organizer
-*** Role:
-Organizers help to get communities together and pick sites for
-routes. They use their abilities of planning and their social networks
-to coordinate many people to act.
-*** Tasks:
-Organizers need to rally communities together to expand their wireless networks.
-Organizers help to expand the network by collecting the people
-necessary to build each new node. These include residents of certain
-colours, as well as Technologists.
+  Everyone's participation is important in community mesh networks. Residents help technologists and organizers with their knowledge of the area, but their insight and agreement is necessary when expanding the
+  network. 
+*** Tasks
+  - Deliver Data Packets
 
-* TODO props list update
-** node expansion conditions for each node possible
-* Open Qs:
-** Technologist
-      - builds network components (mounting/power asessment)
-      - tracks and verifies range for broadcast
-**** Organizer
-      - responsible for obtaining permission to build
-      - responsible for bringing skills to site (inc emergencies)
+  - Assist Building A New Node & Resolving Events
+    Working with the Organizer and Technologists, Residents will bring their approval and talents to bear on problems: 
+    - Local Knowledge
+    - Feedback on Network Quality
+    - Skill Sharing
+    they must explicitly consent to being involved in both building a node and resolving the event.
+
+** Deliver Data Packets
+  Data packets are the means by which everything is sent around a wireless network. They might be conversations, videos, or requests to websites. Well built and healthy networks allow packets to move quickly and without intereference.
+
+  Players send messages by making shapes in the network. 
+  Begin at a node, and attempt to trace the shape using only nodes beside you.
+  Remember, you can only use nodes that have been activated!
