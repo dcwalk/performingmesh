@@ -1,21 +1,19 @@
 ** Event Cards
-  Occurrences affecting all players that are initiated/instigated by the facilitators, come in four flavours:
+  Occurrences affecting all players that are initiated/instigated by the facilitators come in four flavours:
   - Hardware Failure
   - Networking Issue
   - Obstruction
   - Social Dimension
-
 *** Hardware Failure
 **** Tree Down
 ***** Description
-  There was a sever weather warning during the thunderstorms last night. One of the oldest Oaks on the block didn't survive the wind. Worse yet, when it came down it somehow damaged the antenna on the node.
+  There was a severe weather warning during the thunderstorms last night. One of the oldest Oaks on the block didn't survive the wind. Worse yet, when it came down it somehow damaged the antenna on the node.
 ***** Effect
   Node cannot be used to deliver data packets while this Event is in effect.
 ***** Resolution
   Organizer must find and bring the following players to the site to resolve:
     - (2/2/3) Residents of the Node Colour
     - (1/2/3) Technologist
-
 **** School Yard Ball Mishap
 ***** Description
   The old 'throw the ball on the school roof' game keeps going strong, only this time it looks like one of the students had killer aim.
@@ -25,7 +23,6 @@
   Organizer must find and bring the following players to the site to resolve:
     - (1/1/2) Residents of the Node Colour
     - (1/2/3) Technologist
-
 *** Networking Issue
 **** Interference
 ***** Description
@@ -36,68 +33,60 @@
   Organizer must find and bring the following players to the site to resolve:
     - (1/1/2) Residents of all Node Colours connected to the nexus of interference
     - (1/3/5) Technologist
-
 **** Power Outage
 ***** Description
-  Flooding caused issues at a transformer station serving almost half of the neighbourhood. Our bad luck that the half includes this building. Power company crews are working around the clock to restore power in affected neighbourhoods. 
+  Flooding caused issues at a transformer station serving almost half of the neighbourhood. Our bad luck that the half includes the building our node(s) is/are in. Power company crews are working around the clock to restore power in affected neighbourhoods. 
 ***** Effect
-  Node(s) cannot be used to deliver data packets while this Event is in effect. Determine the number of nodes effected based on ??
+  Node(s) cannot be used to deliver data packets while this Event is in effect. Determine the number of nodes effected based on ?? (GR note: why does it have to be multiple nodes??)
 ***** Resolution
   Organizer must find and bring the following players to the site to resolve:
     - (1/1/2) Residents of the Node Colour
     - (1/3/5) Technologist
-
 *** Obstruction
 **** Construction
 ***** Description
-  Looks like that development is going up after all. After years of stalled talks the city and the owner of the vacant lot across the street came to an agreement. Work on the site started far quicker than you anticipated.
+  Looks like that development is going up after all. After years of stalled talks, the City and the owner of the vacant lot across the street came to an agreement. Work on the site started much sooner than you anticipated.
 ***** Effect
   Path between two nodes cannot be used to deliver data packets while this Event is in effect.
 ***** Resolution
   Organizer must find and bring the following players to the site to resolve:
     - (1/2/2) Technologist
-
 **** Re-tarring of roof
 ***** Description
-  The landlord finally was able to get those roofers up to patch the leaks, unfortunately the whole block smells like creosote and it sounds like they'll be up there all week.
+  The landlord finally was able to get those roofers up to patch the leaks. Unfortunately, the whole block smells like creosote, and it sounds like they'll be up there all week. (GR note: why would this be an obstruction?)
 ***** Effect
   Path between two nodes cannot be used to deliver data packets while this Event is in effect.
 ***** Resolution
   Organizer must find and bring the following players to the site to resolve:
     - (2/3/4) Residents of the Node Colour
-
 **** Maintenance Mishap
 ***** Description
-  The roof gets checked periodically by the property managers, unfortunately access is right beside where the node was initially installed, must have been a spring inspection.
+  The roof gets checked periodically by the property managers. Unfortunately, access is right beside where the node was initially installed. Must have been a spring inspection. (GR note: clarify this last sentence)
 ***** Effect
   All paths except 1 leaving from the nodes cannot be used to deliver data packets while this Event is in effect.
 ***** Resolution
   Organizer must find and bring the following players to the site to resolve:
     - (1/2/2) Technologist
-
 *** Social Dimension
 **** Site Sponsor Leave
 ***** Description
-  It was only a matter of time before they retired, it was mentioned during the initial discussions to build the node onsite. Sounds unclear whether you'll be able to keep the site once they are gone, bummer. 
+  Only a matter of time before they retired - it was mentioned during the initial discussions to build the node onsite. Sounds unclear whether you'll be able to keep the site once they are gone... bummer. 
 ***** Effect
   Node(s) cannot be used to deliver data packets while this Even Card is in effect.
 ***** Resolution
-
-
-
+  (GR note: What is the resolution?)
 **** Community Border Node
 ***** Description
-  Exciting times! Looks like there is interest from the neighbouring community to expand the network to cover both. Important to make sure things get off to the right start.
+  Exciting times! Looks like there is interest from the neighbouring community to expand the network to cover both communities. Important to make sure things get off to the right start.
 ***** Effect
   Cannot build a new node while this Event is in effect.
 ***** Resolution
   Organizer must find and bring the following players to the site to resolve:
     - (1/1/1) Resident of the Node Colour
   AND Organizer must switch roles with that Resident
-
 **** Language Barrier
 ***** Description
-  Uh oh, got some feedback from your neighbours. Trying to be careful with terminology and jargon hasn't been enough. If people don't feel like they can participate in conversations how do they get engaged in the network process?
+  Uh oh... got some feedback from your neighbours. Trying to be careful with terminology and jargon hasn't been enough. If people don't feel like they can participate in conversations, how do they get engaged in the network building process?
 ***** Effect
   It takes double the number of Residents to build a new node while this Event is in effect.
 ***** Resolution
@@ -105,8 +94,8 @@
     - (2/5/7) Technologist
     - (1/1/1) Resident of each Node Colour (2/3/3)
   AND Organizer must determine next location to place node with these Technologists
-
 **** Imposter Syndrome
+  (GR note: not sure that this is a significant issue)
 ***** Description
   "But I don't know anything about technology" has become a chorus recently. Too many people with talent and interest don't feel like they know enough to be involved in the project. 
 ***** Effect

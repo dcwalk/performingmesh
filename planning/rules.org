@@ -1,6 +1,5 @@
 * Rules 
   DRAFT 2015-06-13
-
 ** Workshop Breakdown
 *** 20 minute intro
   - Deliver Rules 
@@ -9,53 +8,47 @@
     - Neighbourhood
     - Network Chips
   - Move Outside
+  # see amc_logistics.org for a location map
 *** 50 minute game-play
   - 2-3 scenarios of increasing difficulty with the same underlying framework
     - basic gameplay mechanics (data packets & network expansion)
     - introducing challenges
     - introducing time constraints
 *** 15 minute outro
-
-
+# delivered by???
 ** Players
   Minimum: 10 players
   - Scales to 20, 30ish increments with suggested breakdowns of roles, hopefully some flexibility!
-
 ** Initial Introduction
-  Today we are going to model a way for a group of people to communicate using community wireless technology using play!  
+  Today we are going to play out a scenario around the obstacles, challenges, and advantages a community might face when decentralizing its wireless technology infrastructure!  
 
   With a session that is 90 minutes we expect to spend our time in the following way:
   - the first 20 minutes will be explaining the rules, handing out roles and getting ourselves set up to play (outside hopefully!)
   - we will spend roughly the next hour playing the game
   - the final 15 minutes will be an opportunity for everyone to talk about their experience and provide feedback to both us and AMC!
 
-  We will mention this again at the end, but right now we are still in the early stages of exploring how play and this workshop can help with understanding and designing community networks and welcome and thoughts, feedback and experiences you have to share.
-
+  We will mention this again at the end, but right now we are still in the early stages of exploring how play and this workshop can enhance understanding and design of community networks. We welcome all thoughts, feedback, and experiences you might want to share.
+# we might want to state that, while we work together at a university, this is not a "data collection" exercise. 
 ** Goal
-  The goal of the game is for the community to collectively send enough messages around your local mesh network in the time that we have.
+  The goal of the game is for the community to collectively send enough messages around its local mesh network in given amount of time.
 
-  To achieve this you will have to move enough data packets and build new nodes to expand your network.
-
+  To achieve this you will have to move enough data packets, thereby completing succesful communications, and build new nodes to expand your network in service of this primary goal.
 ** Objectives
-  The game is structured into stages of increasing difficulty, the first stage will introduce the basic game with each following stage including a new element you'll have to overcome. Since we aren't working with hardware we will use the successful movement of enough people to signify a 'working' network.
+  The game is structured in stages of increasing difficulty. The first stage will introduce the basic game, with each following stage including new challenges that players will have to overcome. Since we aren't working with hardware, we will use the successful movement of enough people to signify a 'working' network.
 
-  Each person should have one role card. There are three roles: Organizer, Technologist and Resident. Each has elements or skills required for the expansion of a network. _In addition_, Technologists and Residents have the ability to act as Data Packets when not working with the organizer resolve events and build new nodes.
-
+  Each person should have one role card. There are three roles: Organizer, Technologist and Resident. Each has elements or skills required for the expansion of a network. _In addition_, Technologists and Residents are required to act as Data Packets when not working with the organizer to resolve events and build new nodes.
 *** Data Packets
-  The main unit of progress is the number of data packets delivered. On the back of the Technologist and Resident role cards there is a guide showing the routes that have to be completed in sequence to be 
-
+  The main unit of a successful outcome in the game is the number of data packets delivered. On the back of the Technologist and Resident role cards there is a guide showing the routes that have to be completed in sequence.
 *** Resolving Events
-  From time to time events will come up that get in the way of future progress, the organizer working with technologists and residents will have to overcome these challenges in order to maintain a healthy and functioning network!
-
+  From time to time, events will come up that get in the way of future progress. The organizer, working with technologists and residents, will have to overcome these challenges in order to maintain a healthy and functioning network!
 *** Completing the Game
   Winning the Game, once you have completed a route ...
 
   <THIS NEEDS TO BE RESOLVED>
 
-  The game will happen in rounds of increasing difficulty. To move to the next round all players will have to work together to achieve the group goal of delivering packets. The only way to do so is to balance building the network and delivering data packets!
+  The game will happen in rounds of increasing difficulty. To move to the next round all players will have to work together to achieve the group goal of delivering packets. The only way to do so is to balance your activity between building the network and delivering data packets!
 
   As facilitators we will be around to both aid and hinder you as you go about your tasks.
-
 ** Setup
 *** Facilitator
 **** Required Materials
@@ -90,11 +83,13 @@
 *** Participants
   - Organizers should be provided with a sash
   - Technologists should be provided with a ??
+  # should each role be demarcated with something physical (hat; glasses; etc.) in order to speed up gameplay??
 
-  - Players have to go and stand find a starting node with a "Broadcasting" sign that is not occupied by another player
+  - Players have to find a starting node with a "Broadcasting" sign that is not occupied by another player
+  # how will we demarcate broadcasting nodes??
 
 ** Sequence of Play
-  Play is initiated by the Facilitators, they call out the beginning of the round, hand out event cards, verify that all conditions are met by Organizers to build a new node and that routes have been completed by players.
+  Play is initiated by the Facilitators. They call out the beginning of the round, hand out event cards, verify that all conditions are met by Organizers to build a new node, and ensure that routes have been completed by players.
 
 ** Takeaway Debrief
   <get participants attention, maybe described or determined at the beginning of the play session>
@@ -104,6 +99,7 @@
   Some guidelines to give space for a wider range of people to speak:
   - Wait a couple seconds before jumping in, especially if we've spoken before
   - Can we use our twinkles when someone says something we appreciate or agree with and want to build on?
+  # lolwut
 
   We made some prompt questions, but please comment or reflect on any aspect of the session:
   - What was the biggest challenge when... 
@@ -111,6 +107,8 @@
     - Building network nodes?
   - How do you feel this game reflects the actual process of building a network?
   - What was your favourite part of playing the game?
-    - What was your leave favourite?
+    - What was your least favourite?
+  - How could it be more accessible?
+  - Do you see this being effective for different age groups?
 
   [when ~5 minutes left transition into AMC feedback]
