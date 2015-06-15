@@ -1,0 +1,8 @@
+# emacs Caches files
+*~
+[#]*[#]
+.\#*
+\#*#
+
+# OSX files
+.DS_Store
