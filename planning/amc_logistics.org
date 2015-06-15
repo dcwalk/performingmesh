@@ -4,18 +4,22 @@
 ** If session gets full -- use the signs!!!
 ** Consider how to make workshop ACCESSIBLE
 # If we can, we should do it outside. There is a great area under the trees in the middle of this map: https://goo.gl/maps/nQDGv
-* TODO Game WORKING [4/5]
+* TODO Game WORKING [1/1]
   - WORKING [X] formalize rules/constraints #dc
     - [ ] schematic for setup, scalable
-  - WORKING [ ] write role cards
+    - [ ] imagineer some shapes
+  - WORKING [X] write role cards
     - [ ] design role cards
   - WORKING [X] write event cards
     - [ ] design event cards
   - [X] create props list
-  - DRAFT [X] Preamble and Takeaway [2/2] #dc
+  - DRAFT [X] Preamble and Takeaway [0/1] #dc
+    - [ ] Acquire Pylons (50+ in 2 colours)  
+    - [ ] Make sashes (x5)
+    - [ ] Print Broadcasting Signs
     - DRAFT [X] initial introduction 
     - DRAFT [X] takeaway debrief
-* TODO Running Questions 
+* DONE Running Questions 
   - Making schematics for organizers, base with alterations for scenario?
   - Will there be rounds called out?
   - How does the need for more nodes put contrainst on player movement (jams, not crossing paths, starting from where stopped?)

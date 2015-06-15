@@ -2,34 +2,42 @@ This document outlines the text/content that will be present on the role card .s
 * Actors 
 ** Organizer
 *** Role
-  Organizers help communities get together and pick sites for new nodes to expand wireless networks. They use their planning abilities and social networks to help coordinate community members' desire to act.
+  Organizers help communities get together and pick sites for new
+  nodes to expand wireless networks. They use their planning abilities
+  and social networks to help coordinate community members' desire to
+  act.
 *** Tasks
   - Build A New Node
     The following conditions have to be met to build a new node:
     - Site is not already a Broadcasting Node
     - Obtained permission/consensus is onsite
-      - At least (2/3/3) Residents of the Node Colour, barring Events
+      - At least (2/3/3) Residents of the Node Colour
     - Equipment and expertise is onsite
         - (1/2/2) Technologists
-  - Resolve Events
-    From time to time unforeseen events will occur that require quick thinking and action on the part of the Organizer to resolve. Much the same as building a new node, the Organizer will have to bring other players to the site for that resolution
+  - Resolve Events From time to time unforeseen events will occur that
+    require quick thinking and action on the part of the Organizer to
+    resolve. Much the same as building a new node, the Organizer will
+    have to bring other players to the site to discuss and propose a
+    resolution.
 ** Technologist
 *** Role 
-  Technologists act as sources of technical expertise for communities, helping neighbourhoods create networks and build nodes, as well as assisting community members in acquiring the skills they need to do the same.
+  Technologists act as sources of technical expertise for communities,
+  helping neighbourhoods create networks and build nodes, as well as
+  assisting community members in acquiring the skills they need to do
+  the same.
 *** Tasks
-  - Deliver Data Packets 
-  # still think this will be a confusing "task"
-  - Assist Building A New Node & Resolving Events
-    Working with the Organizer and Residents, Technologists will bring their talents to bear on problems related to: 
+  - Assist Building A New Node & Resolving Events Working with the
+    Organizer and Residents, Technologists will bring their talents to
+    bear on problems related to:
     - Equipment Troubleshooting
     - Technical Experience
     - Network Design and Layout
-    NOTE: they must explicitly consent to being involved in both building a node and resolving the event.
+    NOTE: they must explicitly consent to being involved in both
+    building a node and resolving the event.
 ** Residents
 *** Role
   Everyone's participation is important in community mesh networks. Residents help technologists and organizers with their knowledge of the area, but their insight and agreement is necessary when expanding the network. 
 *** Tasks
-  - Deliver Data Packets
   - Assist Building A New Node & Resolving Events
   - Working with the Organizer and Technologists, Residents will bring their approval and talents to bear on problems related to: 
     - Local Knowledge
@@ -37,9 +45,15 @@ This document outlines the text/content that will be present on the role card .s
     - Skill Sharing
     NOTE: they must explicitly consent to being involved in both building a node and resolving the event.
 ** Deliver Data Packets
-# See above note. I think this is a confusing "actor" role. I'd rather make it implied that virtually everyone is engaged in this unless they are tasked with something else.  
-  Data packets are the means by which everything is sent around a wireless network. They might be conversations, videos, or requests to websites. Well built and healthy networks allow packets to move quickly and without intereference.
+  Data packets are the means by which everything is sent around a
+  wireless network. They might be conversations, videos, or requests
+  to websites. Well built and healthy networks allow packets to move
+  quickly and without intereference.
 
   Players send messages by making shapes in the network. 
   Begin at a node, and attempt to trace the shape using only nodes beside you.
   Remember, you can only use nodes that have been activated!
+
+  NOTE: This is not a role or task per se; all Resident and
+  Technologists are engaged in this activity until brought into
+  another task by an Organizer.
