@@ -1,5 +1,5 @@
 # Performing Mesh
-Workshop Materials for [Allied Media Conference (AMC) 2015] 
+Workshop Materials for [Allied Media Conference (AMC) 2015](https://www.alliedmedia.org/amc)
 2015-06-18
 
 ### Using These Materials
@@ -13,7 +13,7 @@ The repository is structured as follows:
 
 ### Contact
 Any contact and feedback is welcome! We hope to potentially improve and expand on the workshop materials contained herein. Current two avenues for feedback exist:
-* add a comment to the [issue tracker]()
+* add a comment to the [issue tracker](https://github.com/dcwalk/performingmesh/issues)
 * or, email  **dc AT dcwalker DOT ca**
 
 ### License
@@ -21,9 +21,5 @@ All <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Performing 
 
 ### Credits
 This project is built upon—or includes—ideas and work from the following people:
-
-* XXX - [Website](https://example.com/)
-* XXX - [Website](https://example.com/)
-* XXX - [Website](https://example.com/)
 
 * icons from [The Noun Project](https://thenounproject.com)
