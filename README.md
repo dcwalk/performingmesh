@@ -3,7 +3,7 @@ Workshop Materials for [Allied Media Conference (AMC) 2015](https://www.alliedme
 2015-06-18
 
 ### Using These Materials
-We encourage you to use these materials and provide feedback or share and experiences with it that you wish.
+We encourage you to use these materials and provide feedback or share your experiences using the materials.
 
 ### Repository Stucture
 The repository is structured as follows:
@@ -22,4 +22,7 @@ All <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Performing 
 ### Credits
 This project is built upon—or includes—ideas and work from the following people:
 
+* Curtis [@cwm__](https://twitter.com/cwm__)
+* DC Walk [@dcwalk_](https://twitter.com/dcwalk_)
+* Gbby Rsch 
 * icons from [The Noun Project](https://thenounproject.com)
