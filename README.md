@@ -3,11 +3,11 @@ Workshop Materials for [Allied Media Conference (AMC) 2015](https://www.alliedme
 2015-06-18
 
 ### Using These Materials
-We encourage you to use these materials and provide feedback or share your experiences using the materials.
+We encourage you to use these materials and provide feedback or share your experiences with us!
 
 ### Repository Stucture
 The repository is structured as follows:
-* `/ ` contains rules and facilitator setup information
+* `/ ` contains [rules and facilitator setup information](https://github.com/dcwalk/performingmesh/blob/master/rules.org)
 * `handouts/ ` contains all materials that need to be printed (or substituted for) in order to play
 * `planning/ ` contains all planning materials used when creating this workshop, preserved for information but should not be required to run your own
 
