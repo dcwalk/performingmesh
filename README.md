@@ -24,5 +24,5 @@ This project is built upon—or includes—ideas and work from the following peo
 
 * Curtis [@cwm__](https://twitter.com/cwm__)
 * DC Walk [@dcwalk_](https://twitter.com/dcwalk_)
-* Gbby Rsch 
+* gbby rsch [website](http://losingtime.ca) 
 * icons from [The Noun Project](https://thenounproject.com)
