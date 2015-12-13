@@ -1,4 +1,4 @@
-# Performing Mesh
+# NodeRunner
 Workshop Materials to run an iteration of PerformingMesh. The most recent iteration was run at the 2015 [Allied Media Conference (AMC)](https://www.alliedmedia.org/amc) on 2015-06-18.
 
 ### Using These Materials
