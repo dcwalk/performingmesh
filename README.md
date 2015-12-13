@@ -16,7 +16,7 @@ Any contact and feedback is welcome! We hope to potentially improve and expand o
 * or, email  **dc AT dcwalker DOT ca**
 
 ### License
-All <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Performing Mesh</span> workshop materials at <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/dcwalk/performingmesh" property="cc:attributionName" rel="cc:attributionURL">github.com/dcwalk/performingmesh</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, the text of which is included in the repository [here](https://github.com/dcwalk/performingmesh/blob/master/LICENSE.md).
+All <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">NodeRunner</span> workshop materials at <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/dcwalk/performingmesh" property="cc:attributionName" rel="cc:attributionURL">github.com/dcwalk/performingmesh</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, the text of which is included in the repository [here](https://github.com/dcwalk/performingmesh/blob/master/LICENSE.md).
 
 ### Credits
 This project is built upon—or includes—ideas and work from the following people:
