@@ -1,6 +1,15 @@
 # Considerations for iConference March 20-23
 * TODO gbby choose new font
-* TODO Run playthrough with a few peeps
+* TODO Playthrough
++ [X] Schedule time and invite people
++ [ ] Book a space
++ [ ] Acquire materials
++ [ ] New Cards
+  + [ ] V1 (print Event and Role Cards)
+  + [ ] V2 (Rewrite)
++ Intro 
+  + [ ] Rules LucidChart
+  + 
 * TODO NEW Mechanics?
 + Players arrange themselves automatically
 + Each player is a node point
@@ -11,3 +20,6 @@
 + in building nodes? passing strings?
 ** TODO WHEN DO CHALLENGES ARISE?
 + by our will or by mechanic?
+* TODO Procurements
+* VERSION 2
++ [[https://www.lucidchart.com/invitations/accept/61aecf42-d736-41ee-988f-99df173803da][V2 Lucidchart]]
