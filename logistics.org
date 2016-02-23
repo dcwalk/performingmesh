@@ -2,17 +2,17 @@
 * TODO GBBY 
 + [ ] Pylons
 + [ ] New Font
-* TODO Playthrough
+* DONE Playthrough
 + [X] Schedule time and invite people
 + [X] Book a space
 ** TODO Materials
 + [X] Yarn (V2)
-+ [ ] Pylons (V1) (Gabby)
-+ [ ] New Cards
++ [X] Pylons (V1) (Gabby)
++ [X] New Cards
   + [ ] V1 (print Event and Role Cards)
-  + [ ] V2 (Rewrite)
-    + [ ] Decide on ~10 Card descriptions/locations/events/challenges
-    + [ ] ~10 shapes / stinkscape them
+  + [X] V2 (Rewrite)
+    + [X] Decide on ~10 Card descriptions/locations/events/challenges
+    + [X] ~10 shapes / stinkscape them
       + [[https://thenounproject.com/mnhendricks11/collection/written-in-the-stars/?oq%3Dconstellation&cidx%3D2][constellation icons]]
 * DONE NEW Mechanics?
 + [X] Players arrange themselves automatically

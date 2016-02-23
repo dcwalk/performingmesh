@@ -155,28 +155,29 @@ leading to an area saturated in signal.
 **** Effect
 **** Resolution
 * V2 Event Cards
-** Tree Down
-*** Description
- There was a severe weather warning during the thunderstorms last
- night. One of the oldest Oaks on the block didn't survive the
- wind. Worse yet, when it came down it somehow damaged the antenna on
- the node.
-
 ** School Yard Ball Mishap
-** Interference
-** Power Outage 
-
-** Re-tarring the roof
-** Maitenance Mishap
++  The old 'throw the ball on the school roof' game keeps going strong, only this time it looks like one of the students had killer aim. This keeps happening and you're spending a lot of time at the school doing minor maitenance. 
 ** Construction
++  Looks like that development is going up after all. After waiting years, looks like the developers decided to start building on the vacant lot across the street. Your previous node cannot penetrate the new obstruction- a 10 storey condo. What are your next few steps to maintain the sanctity of your network?
+** Power Outage 
++  Flooding caused issues at a transformer station serving almost all of the neighbourhood. Our bad luck that the half includes the building our node(s) is/are in. Power company crews are working around the clock to restore power in affected neighbourhoods. This node and those around it cannot send messages until you figure out a work around.
 
 ** Site Sponsor Leaves
++  Only a matter of time before they retired - it was mentioned during the initial discussions to build the node onsite. Sounds unclear whether you'll be able to keep the site once they are gone... bummer. You'd better find someone new!
 ** Community Border Node
++ Your network has really taken off in the last little bit, and has covered a few neighborhoods. An adjacent neighborhood also has a community wifi sharing initiative, and they're looking to join up with your network. There are bound to be challenges- they're running on a different networking protocol. How could you being to bring your two groups together?
+** Re-tarring the roof
++  The landlord finally was able to get those roofers up to patch the leaks. Unfortunately, the whole block smells like creosote, the internet is all wonky. It sounds like they'll be up there all week. You've gotta figure out how to get access to the roof- either through the landlord, or the contractors. 
+** Imposter Syndrome
++ What are you thinking- you can't run your own community network. You don't know the first thing about telecoms engineering- people probably aren't even using your network. I guess the big ISPs just do it better...  Running a community network is technically demanding, but it can also be a personal struggle. Sometimes, you might not feel like you're up to the task- the very task that you've been doing all this time. Take a moment and get everyone involved in your project to say nice things about their comrades, and get rid of the doubts about your ability.
+** Interference
+When the network was originally designed there was more distance between all these nodes. Over time more were added to meet demand, leading to an area saturated in signal. Mix all the nodes up!
+** Tree Down
++ There was a severe weather warning during the thunderstorms last night. One of the oldest Oaks on the block didn't survive the wind. Worse yet, when it came down it somehow damaged the antenna on the node. Figure out what you're going to do before placing another node.
 ** Language Barrier
-
-** SPARE Imposter Syndrome
++ The next node in your network should probably go up in this neighbourhood, but a lot of the residents are quite elderly and many do not speak English. You still need their consent to expand your network here. How can you communicate and convince them that your network will be valauble for them?
 ** Tyrannical Technologist
-
++  We've all the heard the rumours- the network administrator has been less than civil with other community members. It's getting to point where people don't feel comfortable being involved in the project. How can you handle a situation like that?
 ** Community Revitalization Plan
 + City is offering funding for community revitalization in twelve neighbourhoods. One of the projects is to increase access to municipal services, such as broadband access. Through a town hall process, they are seeking input. How can you justify using this money to get your community mesh network off the ground?
 ** Pedestrian Area
