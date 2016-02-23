@@ -4,7 +4,7 @@
 + [ ] New Font
 * TODO Playthrough
 + [X] Schedule time and invite people
-+ [ ] Book a space
++ [X] Book a space
 ** TODO Materials
 + [X] Yarn (V2)
 + [ ] Pylons (V1) (Gabby)
