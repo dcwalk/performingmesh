@@ -8,6 +8,7 @@ We encourage you to use these materials and provide feedback or share your exper
 The repository is structured as follows:
 * `/ ` contains [rules and facilitator setup information](https://github.com/dcwalk/performingmesh/blob/master/rules.org)
 * `handouts/ ` contains all materials that need to be printed (or substituted for) in order to play
+* `presentation/ ` contains a **DRAFT** brief introduction to mesh networking concepts and materials
 * `planning/ ` contains all planning materials used when creating this workshop, preserved for information but should not be required to run your own
 
 ### Contact
@@ -16,12 +17,12 @@ Any contact and feedback is welcome! We hope to potentially improve and expand o
 * or, email  **dc AT dcwalker DOT ca**
 
 ### License
-All <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">NodeRunner</span> workshop materials at <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/dcwalk/performingmesh" property="cc:attributionName" rel="cc:attributionURL">github.com/dcwalk/performingmesh</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, the text of which is included in the repository [here](https://github.com/dcwalk/performingmesh/blob/master/LICENSE.md).
+All <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">performingmesh/NodeRunner</span> workshop materials at <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/dcwalk/performingmesh" property="cc:attributionName" rel="cc:attributionURL">github.com/dcwalk/performingmesh</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, the text of which is included in the repository [here](https://github.com/dcwalk/performingmesh/blob/master/LICENSE.md).
 
 ### Credits
 This project is built upon—or includes—ideas and work from the following people:
 
 * Curtis [@cwm__](https://twitter.com/cwm__)
 * DC Walk [@dcwalk_](https://twitter.com/dcwalk_)
-* gbby rsch [Losing Time](http://losingtime.ca) 
+* gbby rsch [Losing Time](http://losingtime.ca)
 * icons from [The Noun Project](https://thenounproject.com)
