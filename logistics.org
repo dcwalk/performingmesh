@@ -1,21 +1,35 @@
 # Considerations for iConference March 20-23
-* TODO GBBY 
+* TODO GBBY
 + [ ] Pylons
 + [ ] New Font
+* TODO Cleanup for iConf
++ [ ] (Dawn) Review rules
++ [ ] Review events (incl. language from v2)
++ [ ] Develop Card back with rules for resolving events
++ [ ] Develop 'personas or ideas for roleplay for all roles'
++ [ ] Create intro presentation DRAFT
+  + [X] Concepts
+    + [X] Nodes, links
+    + [X] Routes, Hops
+    + [ ] Types of equipment: router (antenna), cable, power source
+    + [ ] Type of participants (from role cards)
+  + [ ] Text with definitions for each concept
+* TODO Modify Gameplay
++ [ ] Relationship between number of nodes and players defined better
++ [ ] Get rid of resident colour (neighbourhoods)
 * DONE Playthrough
 + [X] Schedule time and invite people
 + [X] Book a space
-** TODO Materials
+** DONE Materials
 + [X] Yarn (V2)
 + [X] Pylons (V1) (Gabby)
 + [X] New Cards
-  + [ ] V1 (print Event and Role Cards)
+  + [X] V1 (print Event and Role Cards)
   + [X] V2 (Rewrite)
     + [X] Decide on ~10 Card descriptions/locations/events/challenges
     + [X] ~10 shapes / stinkscape them
       + [[https://thenounproject.com/mnhendricks11/collection/written-in-the-stars/?oq%3Dconstellation&cidx%3D2][constellation icons]]
-* DONE NEW Mechanics?
+* DONE NEW Mechanics v2
 + [X] Players arrange themselves automatically
 + [X] Each player is a node point
-* VERSION 2
-+ [[https://www.lucidchart.com/invitations/accept/61aecf42-d736-41ee-988f-99df173803da][V2 Lucidchart]]
++ [X] Version 2 rules [[https://www.lucidchart.com/invitations/accept/61aecf42-d736-41ee-988f-99df173803da][V2 Lucidchart]]
