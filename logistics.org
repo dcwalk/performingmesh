@@ -1,18 +1,21 @@
 # Considerations for iConference March 20-23
 * TODO GBBY
-+ [ ] Pylons
++ [ ] Pylons + 3 Colours (On/Off/Event) 
 + [ ] New Font
-* TODO Cleanup for iConf
-+ [ ] (Dawn) Review rules
++ [ ] Fix Role card colours
+* TODO Dawn
++ [ ] Review rules
 + [ ] Review events (incl. language from v2)
 + [ ] Develop Card back with rules for resolving events
 + [ ] Develop 'personas or ideas for roleplay for all roles'
-+ [ ] Create intro presentation DRAFT
-  + [X] Concepts
+* TODO Curtis 
+  + [-] Concepts
     + [X] Nodes, links
     + [X] Routes, Hops
-    + [ ] Types of equipment: router (antenna), cable, power source
+    + [ ] Types of equipment: router + (antenna), cable, power source 
     + [ ] Type of participants (from role cards)
+  + [ ] Slide for roleplay ideas 
+  + [ ] real world context (Pictures with examples) 
   + [ ] Text with definitions for each concept
 * TODO Modify Gameplay
 + [ ] Relationship between number of nodes and players defined better
@@ -33,3 +36,7 @@
 + [X] Players arrange themselves automatically
 + [X] Each player is a node point
 + [X] Version 2 rules [[https://www.lucidchart.com/invitations/accept/61aecf42-d736-41ee-988f-99df173803da][V2 Lucidchart]]
+* Resources (Icons)
++ https://thenounproject.com/carlholderness/collection/users/?oq=face&cidx=119
++ https://thenounproject.com/oliviustoian/collection/smashicons-emoticons-outline/?oq=face&cidx=98
++ https://thenounproject.com/p.evgrafov/collection/face/?oq=face&cidx=37
