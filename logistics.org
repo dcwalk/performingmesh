@@ -9,14 +9,14 @@
 + [ ] Develop Card back with rules for resolving events
 + [ ] Develop 'personas or ideas for roleplay for all roles'
 * TODO Curtis 
-  + [-] Concepts
+  + [X] Concepts
     + [X] Nodes, links
     + [X] Routes, Hops
-    + [ ] Types of equipment: router + (antenna), cable, power source 
-    + [ ] Type of participants (from role cards)
-  + [ ] Slide for roleplay ideas 
+    + [X] Types of equipment: router + (antenna), cable, power source 
+    + [X] Type of participants (from role cards)
+    + [X] Slide for roleplay ideas 
   + [ ] real world context (Pictures with examples) 
-  + [ ] Text with definitions for each concept
+    + [ ] Text with definitions for each concept
 * TODO Modify Gameplay
 + [ ] Relationship between number of nodes and players defined better
 + [ ] Get rid of resident colour (neighbourhoods)
