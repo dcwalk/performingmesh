@@ -17,14 +17,14 @@
     + [X] Types of equipment: router + (antenna), cable, power source 
     + [X] Type of participants (from role cards)
     + [X] Slide for roleplay ideas 
-  + [ ] real world context (Pictures with examples) 
-    + [ ] pittmesh, red hook wireless, nycmesh, in the style of hops (but without size)
-    + [ ] Text with definitions for each concept
-  + [ ] gender neutral in roleplayers, e-cig purveyor, linux dev > sysadmin
-    + [ ] cite icons at the end of presentation
-    + [ ] update final two slides to include url and credits for icons
-  + [ ] follow up on room request
-* TODO Modify Gameplay
+  + [X] real world context (Pictures with examples) 
+    + [X] pittmesh, red hook wireless, nycmesh, in the style of hops (but without size)
+    + [X] Text with definitions for each concept
+  + [X] gender neutral in roleplayers, e-cig purveyor, linux dev > sysadmin
+    + [X] cite icons at the end of presentation
+    + [X] update final two slides to include url and credits for icons
+  + [X] follow up on room request
+* TODO Modify Gameplay 
 + [ ] Relationship between number of nodes and players defined better
 * DONE Playthrough
 + [X] Schedule time and invite people
