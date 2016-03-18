@@ -1,6 +1,6 @@
 # Considerations for iConference March 20-23
 * TODO GBBY
-+ [ ] Pylons + 3 Colours (On/Off/Event) 
++ [ ] Pylons + 3 Colours (On/Off/Event)
 + [ ] New Font
 + [ ] Fix Role card
   + [ ] resident colours
@@ -8,23 +8,23 @@
   + [ ] revised event text
 * TODO Dawn
 + [ ] Review rules
-+ [ ] Review events (incl. language from v2)
-+ [ ] Develop Card back with rules for resolving events
-* TODO Curtis 
++ [X] Review events (incl. language from v2)
++ [X] Develop Card back with rules for resolving events
+* TODO Curtis
   + [X] Concepts
     + [X] Nodes, links
     + [X] Routes, Hops
-    + [X] Types of equipment: router + (antenna), cable, power source 
+    + [X] Types of equipment: router + (antenna), cable, power source
     + [X] Type of participants (from role cards)
-    + [X] Slide for roleplay ideas 
-  + [X] real world context (Pictures with examples) 
+    + [X] Slide for roleplay ideas
+  + [X] real world context (Pictures with examples)
     + [X] pittmesh, red hook wireless, nycmesh, in the style of hops (but without size)
     + [X] Text with definitions for each concept
   + [X] gender neutral in roleplayers, e-cig purveyor, linux dev > sysadmin
     + [X] cite icons at the end of presentation
     + [X] update final two slides to include url and credits for icons
   + [X] follow up on room request
-* TODO Modify Gameplay 
+* TODO Modify Gameplay
 + [ ] Relationship between number of nodes and players defined better
 * DONE Playthrough
 + [X] Schedule time and invite people
