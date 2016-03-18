@@ -1,186 +1,119 @@
-* V1 Event Cards
+* Event Cards UPDATED
   Occurrences affecting all players that are initiated/instigated by the facilitators come in four flavours:
   - Hardware Failure
   - Networking Issue
   - Obstruction
   - Social Dimension
+
 ** Hardware Failure
 *** Tree Down
 **** Description
- There was a severe weather warning during the thunderstorms last
- night. One of the oldest Oaks on the block didn't survive the
- wind. Worse yet, when it came down it somehow damaged the antenna on
- the node.
++ There was a severe weather warning during the thunderstorms last night. One of the oldest Oaks on the block didn't survive the wind. Worse yet, when it came down it somehow damaged the antenna on a nearby network node. Figure out what you're going to do before placing another node.
 **** Effect
- Node cannot be used to deliver data packets while this Event is in effect.
++ No new nodes can be placed and affected node cannot be used to deliver data packets while this event is in effect.
 **** Recommended Resolution
-Moving the Tree: Organizer could find and bring the following players to the site to resolve:
-    - (2/2/3) Residents of the Node Colour
++ Organizer could find and bring the following players to the site to resolve:
+    - (2/2/3) Residents
     - (1/2/3) Technologist
 *** School Yard Ball Mishap
 **** Description
- The old 'throw the ball on the school roof' game keeps going strong,
- only this time it looks like one of the students had killer aim.
++ The old 'throw the ball on the school roof' game keeps going strong, only this time it looks like one of the students had killer aim. This keeps happening and you're spending a lot of time at the school doing minor maintenance, figure out whether it still makes sense to have a node at the school.
 **** Effect
-     Node cannot be used to deliver data packets while this Event is in effect.  
++ Node cannot be used to deliver data packets while this event is in effect.
 **** Recommended Resolution
- Organizer must find and bring the following players to the site to resolve:
-   - (1/1/2) Residents of the Node Colour
++ Organizer must find and bring the following players to the site to resolve:
+   - (1/1/2) Residents
    - (1/2/3) Technologist
 ** Networking Issue
 *** Interference
 **** Description
-When the network was originally designed there was more distance
-between all these nodes. Over time more were added to meet demand,
-leading to an area saturated in signal.
++ When the network was originally designed there was more distance between all the nodes. Over time more locations were added to meet demand, leading to an area saturated in signal.
 **** Effect
  Any data packets passing through this node are delayed while this
- Event is in effect. Players delivering data packets have to walk
+ event is in effect. Players delivering data packets have to walk
  backwards on all paths leading to and from the node.
 **** Recommended Resolution
- Organizer might find and bring the following players to the site to resolve:
-   - (1/1/2) Residents of all Node Colours connected to the nexus of interference
-   - (1/3/5) Technologist
++ Mix all the nodes up!
 *** Power Outage
 **** Description
- Flooding caused issues at a transformer station serving almost half
- of the neighbourhood. Our bad luck that the half includes the
- building our node(s) is/are in. Power company crews are working
- around the clock to restore power in affected neighbourhoods.
++ Flooding caused issues at the transformer station for almost all of the neighbourhood. Our bad luck that the half includes the building our nodes are in. Right now power company crews are working to restore power in affected neighbourhoods, but there will likely be on site repairs needed. This node and those around it cannot send messages until you figure out a work around.
 **** Effect
- Node cannot be used to deliver data packets while this Event is
- in effect. 
++ Node cannot be used to deliver data packets while this event is in effect.
 **** Recommended Resolution
- Organizer must find and bring the following players to the site to resolve:
-   - (1/1/2) Residents of the Node Colour
++ Organizer must find and bring the following players to the site to resolve:
+   - (1/1/2) Residents
    - (1/3/5) Technologist
 ** Obstruction
 *** Construction
 **** Description
- Looks like that development is going up after all. After years of
- stalled talks, the City and the owner of the vacant lot across the
- street came to an agreement. Work on the site started much sooner
- than you anticipated.
++ Looks like that development is going up after all. After waiting years, the developers decided to start building on the vacant lot across the street. Your previous set up does not have the capability to send traffic through a 10 story condo. Figure out your next few steps to maintain your network's reach.
 **** Effect
- Path between two nodes cannot be used to deliver data packets while
- this Event is in effect.
++ Path between two nodes cannot be used to deliver data packets while this event is in effect.
 **** Recommended Resolution
- Organizer might find and bring the following players to the site to resolve:
++ Organizer might find and bring the following players to the site to resolve:
    - (1/2/2) Technologist
 *** Re-tarring of roof
 **** Description
- The landlord finally was able to get those roofers up to patch the
- leaks. Unfortunately, the whole block smells like creosote, the
- internet is all wonky. It sounds like they'll be up there all
- week. 
++  The landlord finally was able to get those roofers up to patch the leaks. Unfortunately, the whole block smells like creosote and the internet is all wonky. Worse, it sounds like they'll be up there all week. You've gotta check on the node and negotiate how to get access to the roof- either through the landlord, or the contractors.
 **** Effect
-     When going to or from this node, take two steps forward and one step backward.
++ When going to or from this node, take two steps forward and one step backward.
 **** Recommended Resolution
- Organizer might find and bring the following players to the site to resolve:
-   - (2/3/4) Residents of the Node Colour
-*** Maintenance Mishap
-**** Description
-     The roof gets checked periodically by the property
-     managers. Unfortunately, access is right beside where the node
-     was initially installed. There have been issues with the signal-
-     these folks need to be more careful.
-**** Effect
- All paths except 1 leaving from the nodes cannot be used to deliver
- data packets while this Event is in effect.
-**** Recommended Resolution
- Organizer might find and bring the following players to the site to resolve:
-   - (1/2/2) Technologist
++ Organizer might find and bring the following players to the site to resolve:
+   - (2/3/4) Residents
+
+
+
 ** Social Dimension
 *** Site Sponsor Leaves
 **** Description
- Only a matter of time before they retired - it was mentioned during
- the initial discussions to build the node onsite. Sounds unclear
- whether you'll be able to keep the site once they are
- gone... bummer.
++ It was only a matter of time before they retired- in fact they mentioned during the initial discussions when you were setting up the node at the site. Right now it sounds unclear whether you'll be able to keep the node active once they are
+ gone... bummer. You'd better find someone new!
 **** Effect
-     Node cannot be used to deliver data packets while this Event Card is in effect.
++ Node cannot be used to deliver data packets while this event is in effect.
 **** Recommended Resolution
- Organizer must find and bring the following players to the site to resolve:
-   - (1/1/1) Resident of the Node Colour
- AND Organizer must switch roles with that Resident
++ Organizer must find and bring the following players to the site to resolve:
+   - (1/1/1) Resident
+   - Organizer must switch roles with that Resident
 *** Community Border Node
 **** Description
-     Exciting times! Looks like there is interest from the
-     neighbouring community to expand the network to cover both
-     communities. Important to make sure things get off to the right
-     start.
++ Exciting times! Your network has taken off in the last while and covered a few neighborhoods. An adjacent neighborhood also has a community wifi sharing initiative, sounds like they're looking to join your network. There are bound to be challenges bringing the two projects together- how could you facilitate that process?
 **** Effect
-     Cannot build a new node while this Event is in effect.
++ Cannot build a new node while this event is in effect.
 **** Recommended Resolution
-     All Organizers and (1/1/2) representatives from each node color
-     are brought to the site to propose a solution.
++ All Organizers and (1/1/2) representatives from each node color are brought to the site to propose a solution.
 *** Language Barrier
 **** Description
- Uh oh... got some feedback from your neighbours. Trying to be
- careful with terminology and jargon hasn't been enough. If people
- don't feel like they can participate in conversations, how do they
- get engaged in the network building process?
++ The prime spot for your next node is on a street where a lot of the residents are quite elderly and those you've approached so far do not speak much English. However, you still need their interest and consent to expand your network. How can you communicate and work with them to find a solution that benefits you both?
 **** Effect
- It takes double the number of Residents to build a new node while
- this Event is in effect.
++ It takes twice (2x) the Residents to build a new node while this event is in effect.
 **** Recommended Resolution
  Organizer might find and bring the following players to the site to resolve:
    - (2/5/7) Technologist
-   - (1/1/1) Resident of each Node Colour (2/3/3)
- AND Organizer determines next location to place node with these Technologists
-*** SPARE Imposter Syndrome
+   - (1/1/1) Resident
+   - AND Organizer determines next location to place node with these Technologists
+*** Imposter Syndrome
 **** Description
- "But I don't know anything about technology" has become a chorus
- recently. Too many people with talent and interest don't feel like
- they know enough to be involved in the project.
++ What are you thinking- you can't run your own community network. You don't know the first thing about telecoms engineering- people probably aren't even using your network. I guess the big ISPs just do it better... "But I don't know enough about technology" has become an internal chorus recently. Take a moment and get everyone involved in your project to say nice things about all they bring to the project, and get rid of the doubts about abilities.
 **** Effect
- It takes 1.5 the number of Residents and Technologists to build a
- new node while this Event is in effect.
++ It takes twice (2x) the number of Residents and Technologists to build a new node while this event is in effect.
 **** Recommended Resolution
- Organizer must find and bring the following players to the site to resolve:
-   - (2/4/6) Technologist
-   - (2/2/3) Resident of the Node Colour
++ Organizer must find and bring the following players to the site to resolve:
+    - (2/2/3) Residents
+    - (2/4/6) Technologist
 *** Tyrannical Technologist
 **** Description
-     We've all the heard the rumours- the network administrator has
-     been less than civil with other community members. It's getting
-     to the point where people don't feel comfortable being involved
-     in the project.
++ We've all the heard the rumours- the network administrator has been less than civil with other community members. It's getting to point where people don't feel comfortable being involved in the project. How can you as a group deal with this situation fairly?
 **** Effect
-     All technologists sit aside while this event is in effect.
-**** Resolution
-     (1/2/3) Technologists must trade role cards with Residents.
-*** Community Malaise
++ All technologists sit aside while this event is in effect.
+**** Recommended Resolution
++ (1/2/3) Technologists must trade role cards with Residents.
+** Location
+*** Community Revitalization Plan
 **** Description
-**** Effect
-**** Resolution
-* V2 Event Cards
-** School Yard Ball Mishap
-+  The old 'throw the ball on the school roof' game keeps going strong, only this time it looks like one of the students had killer aim. This keeps happening and you're spending a lot of time at the school doing minor maitenance. 
-** Construction
-+  Looks like that development is going up after all. After waiting years, looks like the developers decided to start building on the vacant lot across the street. Your previous node cannot penetrate the new obstruction- a 10 storey condo. What are your next few steps to maintain the sanctity of your network?
-** Power Outage 
-+  Flooding caused issues at a transformer station serving almost all of the neighbourhood. Our bad luck that the half includes the building our node(s) is/are in. Power company crews are working around the clock to restore power in affected neighbourhoods. This node and those around it cannot send messages until you figure out a work around.
-
-** Site Sponsor Leaves
-+  Only a matter of time before they retired - it was mentioned during the initial discussions to build the node onsite. Sounds unclear whether you'll be able to keep the site once they are gone... bummer. You'd better find someone new!
-** Community Border Node
-+ Your network has really taken off in the last little bit, and has covered a few neighborhoods. An adjacent neighborhood also has a community wifi sharing initiative, and they're looking to join up with your network. There are bound to be challenges- they're running on a different networking protocol. How could you being to bring your two groups together?
-** Re-tarring the roof
-+  The landlord finally was able to get those roofers up to patch the leaks. Unfortunately, the whole block smells like creosote, the internet is all wonky. It sounds like they'll be up there all week. You've gotta figure out how to get access to the roof- either through the landlord, or the contractors. 
-** Imposter Syndrome
-+ What are you thinking- you can't run your own community network. You don't know the first thing about telecoms engineering- people probably aren't even using your network. I guess the big ISPs just do it better...  Running a community network is technically demanding, but it can also be a personal struggle. Sometimes, you might not feel like you're up to the task- the very task that you've been doing all this time. Take a moment and get everyone involved in your project to say nice things about their comrades, and get rid of the doubts about your ability.
-** Interference
-When the network was originally designed there was more distance between all these nodes. Over time more were added to meet demand, leading to an area saturated in signal. Mix all the nodes up!
-** Tree Down
-+ There was a severe weather warning during the thunderstorms last night. One of the oldest Oaks on the block didn't survive the wind. Worse yet, when it came down it somehow damaged the antenna on the node. Figure out what you're going to do before placing another node.
-** Language Barrier
-+ The next node in your network should probably go up in this neighbourhood, but a lot of the residents are quite elderly and many do not speak English. You still need their consent to expand your network here. How can you communicate and convince them that your network will be valauble for them?
-** Tyrannical Technologist
-+  We've all the heard the rumours- the network administrator has been less than civil with other community members. It's getting to point where people don't feel comfortable being involved in the project. How can you handle a situation like that?
-** Community Revitalization Plan
-+ City is offering funding for community revitalization in twelve neighbourhoods. One of the projects is to increase access to municipal services, such as broadband access. Through a town hall process, they are seeking input. How can you justify using this money to get your community mesh network off the ground?
-** Pedestrian Area
-+ Many people come through this area everyday, either because they live there, to commute, to shop, or to enjoy one of the many cafes and bars in the area. Many of the patrons like to use WiFi while they are out. All of the businesses maintain seperate networks- with mixed results!!! How can your mesh network bring values to the people in this area?
-** Park
-+ People have been gathering in this park for decades, and it is one of the communities most cherished resources. However, the same trees that make the park beautiful and private make it very difficult to spread your network through the park- not to mention the lack of a electric power supply. How can you incorporate this shared space into your internet?
++ The city is allocating funding for community revitalization in twelve neighbourhoods. One of the themes for this revitalization is increased digital access to municipal services. Through a town hall process, they are seeking input. Can you justify using this money to get your community mesh network off the ground?
+*** Pedestrian Area
+**** Description
++ Many people come through a central neighbourhood everyday. Either because they live there, are commuting, shopping, or just enjoying one of the many cafes and bars. Those business' patrons like to use WiFi, and all of the businesses maintain separate networks- with mixed results!!! Can your mesh network bring value to this area?
+*** Park
+**** Description
++ People have been gathering in this park for decades! So much so that it is one of the communities most cherished resources. However, the same trees that make the park beautiful and private, make it difficult to set up a network to operate in- not to mention the lack of a electric power supply. Can you incorporate this shared space into your plans?
