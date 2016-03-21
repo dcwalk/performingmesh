@@ -5,7 +5,18 @@
 + [ ] Fix Role card
   + [ ] resident colours
   + [ ] Roles text
-  + [ ] revised event text
+  + [ ] revised event text 
+    + [X] Tree
+    + [X] School Ball
+    + [X] Interference
+    + [X] Power Outage
+    + [X] Construction
+    + [X] Re-Tarring
+    + [X] Site Sponsor
+    + [X] Community Border
+    + [X] Language
+    + [ ] Imposter
+    + [X] Tyrannical
 * TODO Dawn
 + [ ] Review rules
 + [X] Review events (incl. language from v2)
