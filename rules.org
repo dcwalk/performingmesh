@@ -1,102 +1,112 @@
-* Rules 
+* Rules
   DRAFT 2015-06-13
 ** Workshop Breakdown
-*** 20 minute intro
-**** Curtis and Dawn
-  - Deliver Rules 
+*** 15 minute intro
+
+  - Deliver Rules
   - Assign Roles (know the distribution numbers)
   - Move Outside
-  # see amc_logistics.org for a location map
+
 *** 50 minute game-play
-  - 2-3 scenarios of increasing difficulty with the same underlying framework
-    - basic gameplay mechanics (data packets & network expansion)
-    - introducing challenges
-    - introducing time constraints
-*** 15 minute outro 
-**** Gabby
+- 2-3 scenarios of increasing difficulty with the same underlying framework:
+1. basic gameplay mechanics (data packets & network expansion)
+2. introducing challenges
+3. introducing time constraints
+
+*** 15 minute outro
+
 ** Players
-  Minimum: 10 players
-  - Scales to 20, 30ish increments with suggested breakdowns of roles,
-    hopefully some flexibility!
+- Minimum: 10 players
+  - Scales to 20, 30ish increments with suggested breakdowns of roles
+
 ** Initial Introduction
-  Today we are going to play out a scenario around the obstacles,
-  challenges, and advantages a community might face when
-  decentralizing its wireless technology infrastructure!
+Today we are going to play out a scenario around the obstacles, challenges, and
+advantages a community might face when decentralizing its wireless technology
+infrastructure!
 
-  With a session that is 90 minutes we expect to spend our time in the following way:
-  - the first 20 minutes will be explaining the rules, handing out
-    roles and getting ourselves set up to play (outside hopefully!)
-  - we will spend roughly the next hour playing the game
-  - the final 15 minutes will be an opportunity for everyone to talk
-    about their experience and provide feedback to both us and AMC!
+With a session that is 90 minutes we expect to spend our time accordingly:
+- the first 15 minutes will be explaining some mesh concepts, going over the
+  rules, handing out roles and getting ourselves set up to play
+- we will spend roughly the next hour playing the game
+- the final 15 minutes will be an opportunity for everyone to talk
+  about their experience and shareback some of what they noticed
 
-  We will mention this again at the end, but right now we are still in
-  the early stages of exploring how play and this workshop can enhance
-  understanding and design of community networks. We welcome all
-  thoughts, feedback, and experiences you might want to share. We all
-  come from a University, but we are not engaged in any research project
-  at the moment, and are not recording data. This game may be used in
-  future research projects. 
+We will mention this again at the end, we are still in the early stages of
+exploring how play and this workshop can enhance understanding community
+networks. We welcome all thoughts, feedback, and experiences you might want to
+share! This game or ideas from it may be incorporated in future research.
 
-Please make sure that before you post any photographs with any other
-participants that you obtain their explicit consent. Consider this as
-consent from all of us facilitators. 
+** Presentation: Intro to Mesh
+
 
 ** Goal
-  The goal of the game is for the community to collectively send
-  enough messages around its local mesh network in given amount of
-  time.
+The goal of the game is for the community to collectively send ("data
+packets") messages around its local mesh network in given amount of time.
 
-  To achieve this you will have to move enough data packets, thereby
-  completing succesful communications, and build new nodes to expand
-  your network in service of this primary goal. 
+To achieve this you will have to move enough data packets, build new nodes to
+expand your network, and respond to challenges that arise as you go about this
+primary goal.
+
 ** Objectives
-  The game is structured in stages of increasing difficulty. The first
-  stage will introduce the basic game, with each following stage
-  including new challenges that players will have to overcome. Since
-  we aren't working with hardware, we will use the successful movement
-  of enough people to signify a 'working' network.
+The session is structured in stages of increasing difficulty:
 
-  Each person should have one role card. There are three roles:
-  Organizer, Technologist and Resident. Each has elements or skills
-  required for the expansion of a network. Technologists and Residents
-  act as Data Packets when not working with the organizer to resolve
-  events and build new nodes.
+*** First Stage
+The first stage will introduce the game, with each following stage including
+new challenges that players will have to overcome. Since we aren't working
+with hardware, we will use the successful movement of enough "data packets"
+to signify a 'working' network.
+
+Each person should have one role card. There are three roles:
+- Organizer
+- Technologist
+- Resident
+
+Each has elements or skills required for the expansion of a network.
+
+Technologists and Residents simultaneously act out Data Packets when not
+working with each other to resolve events and build new nodes.
+
 *** Data Packets
-  A successful outcome in the game is measured by the number of
-  messages sucessfully completed. On the back of the Technologist and Resident
-  role cards there is a guide showing the data packet routes that have to be
-  completed in sequence.
-  # We must provide a example here!
+A successful outcome in the game is measured by the number of "data packets"
+sent. On the back of the Technologist and Resident role cards there is a guide
+showing the data packet routes that have to be completed in sequence.
+
+<physically show example here>
+
 *** Resolving Events
-  From time to time, events will come up that get in the way of future
-  progress. The organizers, working with technologists and residents,
-  will have to overcome these challenges in order to grow and  maintain a
-  healthy network!
-  # Example here
-*** Completing the Game
-  Once you have completed a route add a sticker to your card to cover
-  that route. You can begin your next route immediately. You cannot
-  occupy the same node at the same time as someone else, but you can
-  pass over that node, or wait until they have moved on. If you get
-  stuck for a long time, call an organizer over and maybe they can
-  help. If not, retrace your steps and start another route.
+From time to time, events will come up that get in the way of future progress.
+Organizers, working with technologists and residents, will have to overcome
+these challenges in order to grow and maintain a healthy network!
 
-  The game will happen in rounds of increasing difficulty. To move to
-  the next round all players will have to work together to achieve the
-  group goal of delivering packets. The only way to do so is to
-  balance your activity between building the network and sending
-  messages!
+<physically show example here>
 
-  As facilitators we will be around to both aid and hinder you as you
-  go about your tasks. If at any point you need clarification, flag
-  one of us down.
+*** Playing the Game
+Once you have completed a "data packet" route, you can begin your next route
+immediately.
+
+The only conditions hampering your progress are:
+- you cannot occupy the same node at the same time as someone else,
+  however, you can pass over that node, or wait until they have moved on.
+  - If you get stuck for a long time, call an organizer over and hey can figure
+    out how to help.
+  - If not, retrace your steps and start another route.
+
+*** Later Stages
+The game will happen in rounds of increasing difficulty. To move to the next
+round all players will have to work together to achieve the group goal of
+delivering packets. The only way to do so is to balance your activity
+between building the network and sending messages!
+
+As facilitators we will be around to both aid and hinder you as you go about
+your tasks. If at any point you need clarification, flag one of us down.
+
+
 ** Setup
 *** Facilitator
 **** Required Materials
   - (in handouts/)
    - Rules Printout
-   - Role Cards 
+   - Role Cards
      - 5 Organizers
      - 10 Technologists
      - 10/colour (C/M/Y) Residents
@@ -108,56 +118,49 @@ consent from all of us facilitators.
  - Sash for Organizers (?)
 
 **** Role Card Allocation
-  - Facilitator allocates role cards depending on group size 
+  - Facilitator allocates role cards depending on group size
     (including resident colour breakdown)
      People | Organizers  | Technologists | Residents || C | M | Y
     --------------------------------------------------||-----------
-      10    |      1      |       2       |      7+   || 4 | 3 |   
-      20    |      3      |       5       |     12+   || 5 | 4 | 3 
-      30    |      4      |       7       |     19+   || 7 | 7 | 5 
+      10    |      1      |       2       |      7+   || 4 | 3 |
+      20    |      3      |       5       |     12+   || 5 | 4 | 3
+      30    |      4      |       7       |     19+   || 7 | 7 | 5
 
 **** Calculate Data Packets Goal
-  Amount should scale based on the number of participants, the goal is
-  roughly 50% (5/10) per person (including organizer roles), however
-  the tally is pooled.
+Amount should scale based on the number of participants, the goal is
+roughly 50% (5/10) per person (including organizer roles), however
+the tally is pooled.
 
 **** Initial Network Layout
-  <FILL IN WITH FACILITATOR>
+
 
 *** Participants
-  - Organizers should be provided with a sash
+- Organizers should be provided with a sash
 
-  - Players have to find a starting node with that Broadcasting
-    that is not occupied by another player
+- Players have to find a starting node with that Broadcasting that is not
+  occupied by another player
 
 ** Sequence of Play
-  Play is initiated by the Facilitators. They call out the beginning
-  of the round, hand out event cards, verify that all conditions are
-  met by Organizers to build a new node, and ensure that routes have
-  been completed by players.
+Play is initiated by the Facilitators. They call out the beginning of the
+round, hand out event cards, verify that all conditions are met by Organizers
+to build a new node, and ensure that routes have been completed by players.
 
 ** Takeaway Debrief
-  <get participants attention, maybe described or determined at the
-  beginning of the play session>
+<get participants attention, maybe described or determined at the
+beginning of the play session>
 
-  We want to leave enough time to talk and hear from everyone, as well
-  as give enough time to complete session feedback for AMC.
+Some guidelines to give space for a wider range of people to speak:
+- Wait a couple seconds before jumping in, especially if we've spoken before
 
-  Some guidelines to give space for a wider range of people to speak:
-  - Wait a couple seconds before jumping in, especially if we've spoken before
-  - Can we use our twinkles when someone says something we appreciate
-    or agree with and want to build on?
-  # lolwut
+We made some prompt questions, but please comment or reflect on any
+aspect of the session:
+- What was the biggest challenge when...
+  - Delivering data packets?
+  - Building network nodes?
+- How do you feel this game reflects the actual process of building a network?
+- What was your favourite part of playing the game?
+  - What was your least favourite?
+- How could it be more accessible?
+- Do you see this being effective for different age groups?
 
-  We made some prompt questions, but please comment or reflect on any
-  aspect of the session:
-  - What was the biggest challenge when... 
-    - Delivering data packets? 
-    - Building network nodes?
-  - How do you feel this game reflects the actual process of building a network?
-  - What was your favourite part of playing the game?
-    - What was your least favourite?
-  - How could it be more accessible?
-  - Do you see this being effective for different age groups?
-
-  [when ~5 minutes left transition into AMC feedback]
+[when ~5 minutes left transition into AMC feedback]

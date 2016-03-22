@@ -18,7 +18,7 @@
     + [X] Imposter
     + [X] Tyrannical
 * TODO Dawn
-+ [ ] Review rules
++ [X] Review rules
 + [X] Review events (incl. language from v2)
 + [X] Develop Card back with rules for resolving events
 * TODO Curtis
