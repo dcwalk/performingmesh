@@ -1,11 +1,10 @@
 * Rules
   DRAFT 2015-06-13
 ** Workshop Breakdown
-*** 15 minute intro
+*** 15 minute intro and presentation
 
   - Deliver Rules
   - Assign Roles (know the distribution numbers)
-  - Move Outside
 
 *** 50 minute game-play
 - 2-3 scenarios of increasing difficulty with the same underlying framework:
@@ -24,8 +23,8 @@ Today we are going to play out a scenario around the obstacles, challenges, and
 advantages a community might face when decentralizing its wireless technology
 infrastructure!
 
-With a session that is 90 minutes we expect to spend our time accordingly:
-- the first 15 minutes will be explaining some mesh concepts, going over the
+We have a session that is 90 minutes and we expect to spend:
+- the first 15 minutes explaining some mesh concepts, going over the
   rules, handing out roles and getting ourselves set up to play
 - we will spend roughly the next hour playing the game
 - the final 15 minutes will be an opportunity for everyone to talk
@@ -38,6 +37,16 @@ share! This game or ideas from it may be incorporated in future research.
 
 ** Presentation: Intro to Mesh
 
+*** Slide 1
+This nex istributed communications networks, for 
+
+*** Slide 2
+
+*** Slide 3
+
+*** Slide 4
+
+								Nodes, links and routes
 
 ** Goal
 The goal of the game is for the community to collectively send ("data
