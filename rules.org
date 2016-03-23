@@ -37,16 +37,33 @@ share! This game or ideas from it may be incorporated in future research.
 
 ** Presentation: Intro to Mesh
 
-*** Slide 1
-This nex istributed communications networks, for 
+*** Slide 1: Network Topology
+Distributed communications networks can take many forms
 
-*** Slide 2
+*** Slide 2: Nodes, links and routes
 
-*** Slide 3
 
-*** Slide 4
+*** Slide 3: Routes and hops
 
-								Nodes, links and routes
+*** Slide 4: Roles
+Many different kinds of people are involved in creating community infrastructure...
+
+*** Slide 5: Equipment
+Technical bits required: routers to propagate the network by sending wi-fi waves, antennas to mount the routers on to get the signal wide enough and above obstacles, cable to plug it all in, and a power source to get it all running!
+
+*** Slide 6: Roleplaying
+NodeRunner is more fun if you roleplay (even just a bit). These are just some ideas- what you should really keep in mind is to be clear to others in the game who you are or what you represent to the community- even if you're just roleplaying yourself!
+
+*** Slide 7:
+Kathy installs an antenna for Red Hook wireless
+
+Techbro holds pittmesh antenna
+
+Sick night shot of NYCmesh
+
+Even oldies love Freifunk
+
+
 
 ** Goal
 The goal of the game is for the community to collectively send ("data
