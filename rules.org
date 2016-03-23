@@ -17,7 +17,7 @@
 ** Players
 - Minimum: 10 players
   - Scales to 20, 30ish increments with suggested breakdowns of roles
-
+    
 ** Initial Introduction
 Today we are going to play out a scenario around the obstacles, challenges, and
 advantages a community might face when decentralizing its wireless technology
@@ -38,15 +38,30 @@ share! This game or ideas from it may be incorporated in future research.
 ** Presentation: Intro to Mesh
 
 *** Slide 1: Network Topology
-Distributed communications networks can take many forms
+Distributed communications networks can take many forms. There are three main types of network:
+
+Centralized, where all nodes are connected to one single point that holds up the hole network.
+
+Decentralized, where nodes are connected to a set of high-level points that communiczte with each other (this is how the internet currently looks)- although with a few more layers.
+
+Distributed- where connections can be formed between any nodes. In a wireless mesh network, connections can be formed between any two nodes as long as they are close enough. Since Each computer can also act as a router, the connections between nodes are always changing, meaning that the 'shape' or 'topology' of the network is always changing. 
 
 *** Slide 2: Nodes, links and routes
 
+At the highest level, networks have two parts: nodes and links. any point in the network (such as a computer, or a router) is a network node. Any wifi path between them is a link. When someone wants to send information from one node to another, they follow a route of links.  
 
 *** Slide 3: Routes and hops
 
+Each time data moves from one node to another, we call this a hope. In Noderunner, you play as a data packet that must hope from node to node on your network links to form the routes on the back of your card.
+
 *** Slide 4: Roles
-Many different kinds of people are involved in creating community infrastructure...
+Many different kinds of people are involved in creating community infrastructure... we've chosen some of these as roles in NodeRunner. 
+
+Organizers are responsible for motivating people and getting them to come together to solve problems.
+
+Technologists have a deep understanding of the equipment and theory of networking, and are needed to set up equipment and troubleshoot problems with the network.
+
+Residents are the stewards of the land that the network occupies. They have knowledge of their community, its people, and the power and desire to go out and get things done!
 
 *** Slide 5: Equipment
 Technical bits required: routers to propagate the network by sending wi-fi waves, antennas to mount the routers on to get the signal wide enough and above obstacles, cable to plug it all in, and a power source to get it all running!
@@ -57,12 +72,11 @@ NodeRunner is more fun if you roleplay (even just a bit). These are just some id
 *** Slide 7:
 Kathy installs an antenna for Red Hook wireless
 
-Techbro holds pittmesh antenna
+Adam Longwill holds pittmesh antenna
 
 Sick night shot of NYCmesh
 
-Even oldies love Freifunk
-
+Everyone loves Freifunk
 
 
 ** Goal
