@@ -4,7 +4,7 @@ Workshop Materials to run an iteration of NodeRunner. The most recent iteration 
 ### Using These Materials
 We encourage you to use these materials and provide feedback or share your experiences with us!
 
-### Repository Stucture
+### Repository Structure
 The repository is structured as follows:
 * `/ ` contains [rules and facilitator setup information](https://github.com/dcwalk/performingmesh/blob/master/rules.org)
 * `handouts/ ` contains all materials that need to be printed (or substituted for) in order to play
